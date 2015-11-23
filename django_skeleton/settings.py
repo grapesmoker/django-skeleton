@@ -93,7 +93,8 @@ BOWER_INSTALLED_APPS = (
     'underscore',
     'bootstrap',
     'jquery-ui',
-    'fontawesome'
+    'fontawesome',
+    'backbone',
 )
 
 # Internationalization
